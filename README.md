@@ -1,5 +1,4 @@
-#GoAgent GAE平台部署简易教程
-[https://cnlic.com/?p=329](https://cnlic.com/?p=329)
+#[GoAgent GAE平台部署简易教程](https://cnlic.com/?p=329)
 
 # GoogleIPRange
 整合自以下gogo tester、checkgoogleip、gscan等的IP库，特别感谢各位开发者。
@@ -20,8 +19,7 @@
 
 ##需要补充请直接提交[Pull Request](https://github.com/lenovo-me/GoogleIPRange/pulls)。
 
-#免费ShadowSocks(简称SS)
-[http://goo.gl/RlA4kI](http://goo.gl/RlA4kI)
+#[免费ShadowSocks(简称SS)](http://goo.gl/RlA4kI)
 
 * [BandwagonHost年付3.99$：64M内存、100GB流量/月、1.5GB HDD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=19)
 * [BandwagonHost年付4.99$：96M内存、200GB流量/月、2GB HDD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=20)
