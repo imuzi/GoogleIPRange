@@ -1,3 +1,6 @@
+#GoAgent GAE平台部署简易教程
+[https://cnlic.com/?p=329](https://cnlic.com/?p=329)
+
 # GoogleIPRange
 整合自以下gogo tester、checkgoogleip、gscan等的IP库，特别感谢各位开发者。
 
@@ -16,3 +19,6 @@
 ##批量PING可用[PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html)。
 
 ##需要补充请直接提交[Pull Request](https://github.com/lenovo-me/GoogleIPRange/pulls)。
+
+#免费ShadowSocks(简称SS)
+[http://goo.gl/RlA4kI](http://goo.gl/RlA4kI)
