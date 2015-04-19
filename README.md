@@ -22,3 +22,13 @@
 
 #免费ShadowSocks(简称SS)
 [http://goo.gl/RlA4kI](http://goo.gl/RlA4kI)
+
+* [BandwagonHost年付3.99$：64M内存、100GB流量/月、1.5GB HDD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=19)
+* [BandwagonHost年付4.99$：96M内存、200GB流量/月、2GB HDD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=20)
+* [BandwagonHost年付5.99$：128M内存、300GB流量/月、3GB HDD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=21)
+* [BandwagonHost年付9.99$：512M内存、500GB流量/月、5GB SSD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=22)
+* [BandwagonHost年付11.99$：512M内存、1000GB流量/月、10GB SSD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=27)
+* [BandwagonHost年付18.99$：1024M内存、2000GB流量/月、20GB SSD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=28)
+
+##[Debian/Ubuntu VPS 安装 shadowsocks](http://goo.gl/QtpSGD)
+##[Debian/Ubuntu VPS 安装 PPTP VPN](http://goo.gl/dxVBLB)
