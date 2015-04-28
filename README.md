@@ -17,7 +17,7 @@
 
 ##批量PING可用[PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html)。
 
-##需要补充请直接提交[Pull Request](https://github.com/lenovo-me/GoogleIPRange/pulls)。
+##需要补充请直接提交[Pull Request](https://github.com/CNMan/GoogleIPRange/pulls)。
 
 #[免费ShadowSocks(简称SS)](http://goo.gl/RlA4kI)
 
