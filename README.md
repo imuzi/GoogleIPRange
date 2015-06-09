@@ -18,6 +18,23 @@
 ##批量PING可用[PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html)。
 
 ##需要补充请直接提交[Pull Request](https://github.com/CNMan/GoogleIPRange/pulls)。
+注意剔除以下保留IP地址：
+0.0.0.0/8
+10.0.0.0/8
+100.64.0.0/10
+127.0.0.0/8
+169.254.0.0/16
+172.16.0.0/12
+192.0.0.0/24
+192.0.2.0/24
+192.88.99.0/24
+192.168.0.0/16
+198.18.0.0/15
+198.51.100.0/24
+203.0.113.0/24
+224.0.0.0/4
+240.0.0.0/4
+255.255.255.255/32
 
 #[免费ShadowSocks(简称SS)](http://goo.gl/RlA4kI)
 
