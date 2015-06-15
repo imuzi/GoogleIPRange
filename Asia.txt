@@ -1,57 +1,57 @@
 亚洲地区除CN外所有IP：575686112 IPs in 11869 disjunct network blocks，可在大内存/大硬盘VPS上慢慢扫:)
 
-http://www.ipdeny.com/ipblocks/data/aggregated/ae-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/af-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/am-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/az-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/bd-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/bh-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/bn-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/bt-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/cy-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/ge-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/hk-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/id-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/il-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/in-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/io-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/iq-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/ir-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/jo-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/jp-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/kg-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/kh-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/kp-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/kr-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/kw-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/kz-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/la-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/lb-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/lk-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/mm-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/mn-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/mo-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/mv-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/my-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/np-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/om-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/ph-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/pk-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/ps-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/qa-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/ru-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/sa-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/sg-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/sy-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/th-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/tj-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/tl-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/tm-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/tr-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/tw-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/uz-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/vn-aggregated.zone
-http://www.ipdeny.com/ipblocks/data/aggregated/ye-aggregated.zone
+http://www.ipdeny.com/ipblocks/data/aggregated/ae-aggregated.zone	阿联酋
+http://www.ipdeny.com/ipblocks/data/aggregated/af-aggregated.zone	阿富汗
+http://www.ipdeny.com/ipblocks/data/aggregated/am-aggregated.zone	亚美尼亚
+http://www.ipdeny.com/ipblocks/data/aggregated/az-aggregated.zone	阿塞拜疆
+http://www.ipdeny.com/ipblocks/data/aggregated/bd-aggregated.zone	孟加拉国
+http://www.ipdeny.com/ipblocks/data/aggregated/bh-aggregated.zone	巴林
+http://www.ipdeny.com/ipblocks/data/aggregated/bn-aggregated.zone	文莱
+http://www.ipdeny.com/ipblocks/data/aggregated/bt-aggregated.zone	不丹
+http://www.ipdeny.com/ipblocks/data/aggregated/cy-aggregated.zone	塞浦路斯
+http://www.ipdeny.com/ipblocks/data/aggregated/ge-aggregated.zone	格鲁吉亚
+http://www.ipdeny.com/ipblocks/data/aggregated/hk-aggregated.zone	香港
+http://www.ipdeny.com/ipblocks/data/aggregated/id-aggregated.zone	印度尼西亚
+http://www.ipdeny.com/ipblocks/data/aggregated/il-aggregated.zone	以色列
+http://www.ipdeny.com/ipblocks/data/aggregated/in-aggregated.zone	印度
+http://www.ipdeny.com/ipblocks/data/aggregated/io-aggregated.zone	英属印度洋领地
+http://www.ipdeny.com/ipblocks/data/aggregated/iq-aggregated.zone	伊拉克
+http://www.ipdeny.com/ipblocks/data/aggregated/ir-aggregated.zone	伊朗
+http://www.ipdeny.com/ipblocks/data/aggregated/jo-aggregated.zone	约旦
+http://www.ipdeny.com/ipblocks/data/aggregated/jp-aggregated.zone	日本
+http://www.ipdeny.com/ipblocks/data/aggregated/kg-aggregated.zone	吉尔吉斯斯坦
+http://www.ipdeny.com/ipblocks/data/aggregated/kh-aggregated.zone	柬埔寨
+http://www.ipdeny.com/ipblocks/data/aggregated/kp-aggregated.zone	朝鲜
+http://www.ipdeny.com/ipblocks/data/aggregated/kr-aggregated.zone	韩国
+http://www.ipdeny.com/ipblocks/data/aggregated/kw-aggregated.zone	科威特
+http://www.ipdeny.com/ipblocks/data/aggregated/kz-aggregated.zone	哈萨克斯坦
+http://www.ipdeny.com/ipblocks/data/aggregated/la-aggregated.zone	老挝
+http://www.ipdeny.com/ipblocks/data/aggregated/lb-aggregated.zone	黎巴嫩
+http://www.ipdeny.com/ipblocks/data/aggregated/lk-aggregated.zone	斯里兰卡
+http://www.ipdeny.com/ipblocks/data/aggregated/mm-aggregated.zone	缅甸
+http://www.ipdeny.com/ipblocks/data/aggregated/mn-aggregated.zone	蒙古
+http://www.ipdeny.com/ipblocks/data/aggregated/mo-aggregated.zone	澳门
+http://www.ipdeny.com/ipblocks/data/aggregated/mv-aggregated.zone	马尔代夫
+http://www.ipdeny.com/ipblocks/data/aggregated/my-aggregated.zone	马来西亚
+http://www.ipdeny.com/ipblocks/data/aggregated/np-aggregated.zone	尼泊尔
+http://www.ipdeny.com/ipblocks/data/aggregated/om-aggregated.zone	阿曼
+http://www.ipdeny.com/ipblocks/data/aggregated/ph-aggregated.zone	菲律宾
+http://www.ipdeny.com/ipblocks/data/aggregated/pk-aggregated.zone	巴基斯坦
+http://www.ipdeny.com/ipblocks/data/aggregated/ps-aggregated.zone	巴勒斯坦
+http://www.ipdeny.com/ipblocks/data/aggregated/qa-aggregated.zone	卡塔尔
+http://www.ipdeny.com/ipblocks/data/aggregated/ru-aggregated.zone	俄罗斯
+http://www.ipdeny.com/ipblocks/data/aggregated/sa-aggregated.zone	沙特阿拉伯
+http://www.ipdeny.com/ipblocks/data/aggregated/sg-aggregated.zone	新加坡
+http://www.ipdeny.com/ipblocks/data/aggregated/sy-aggregated.zone	叙利亚
+http://www.ipdeny.com/ipblocks/data/aggregated/th-aggregated.zone	泰国
+http://www.ipdeny.com/ipblocks/data/aggregated/tj-aggregated.zone	塔吉克斯坦
+http://www.ipdeny.com/ipblocks/data/aggregated/tl-aggregated.zone	东帝汶
+http://www.ipdeny.com/ipblocks/data/aggregated/tm-aggregated.zone	土库曼斯坦
+http://www.ipdeny.com/ipblocks/data/aggregated/tr-aggregated.zone	土耳其
+http://www.ipdeny.com/ipblocks/data/aggregated/tw-aggregated.zone	台湾
+http://www.ipdeny.com/ipblocks/data/aggregated/uz-aggregated.zone	乌兹别克斯坦
+http://www.ipdeny.com/ipblocks/data/aggregated/vn-aggregated.zone	越南
+http://www.ipdeny.com/ipblocks/data/aggregated/ye-aggregated.zone	也门
 
 1.0.16.0-1.0.31.255
 1.0.64.0-1.0.255.255
