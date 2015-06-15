@@ -39,7 +39,7 @@
  255.255.255.255/32
 ```
 
-#[免费ShadowSocks(简称SS)](http://goo.gl/RlA4kI)
+#[免费ShadowSocks(简称SS)](https://goo.gl/R6KJ9j)
 
 * [BandwagonHost年付3.99$：64M内存、100GB流量/月、1.5GB HDD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=19)
 * [BandwagonHost年付4.99$：96M内存、200GB流量/月、2GB HDD硬盘](https://bandwagonhost.com/aff.php?aff=1366&pid=20)
