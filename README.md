@@ -1,4 +1,4 @@
-#[GoAgent GAE平台部署简易教程](https://cnlic.com/?p=329)
+#[GoAgent GAE平台部署简易教程](https://goo.gl/mJpKfY)
 
 # GoogleIPRange
 整合自以下gogo tester、checkgoogleip、gscan等的IP库，特别感谢各位开发者。
